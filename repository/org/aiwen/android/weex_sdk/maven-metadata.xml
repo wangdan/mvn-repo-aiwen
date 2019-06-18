@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.aiwen.android</groupId>
+  <artifactId>weex_sdk</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190618071449</lastUpdated>
+  </versioning>
+</metadata>
